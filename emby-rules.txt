@@ -3,3 +3,5 @@ payload:
   - '+.cn2gias.uk'
   - '+.oceancloud.asia'
   - '+.bangumi.ca'
+  - '+.paoluma.de'
+  - '+.nebula-media.org'
